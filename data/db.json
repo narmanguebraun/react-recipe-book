@@ -1,0 +1,66 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Onigiri",
+      "ingredients": [
+        "Japanese rice",
+        "nori seaweed",
+        "pinch of salt",
+        "shiso perilla leaf (optional)",
+        "sesame seeds (optional)",
+        "cooked salmon"
+      ],
+      "method": "01. Begin by cooking the Japanese rice according to your favourite method. 02. With a small amount of salt sprinkled on your hands, mould the rice into small balls or triangles approximately 8cm wide. 03. Create a small well in the centre of the rice and put in your choice of ingredients. Then mould the rice with your hands around the well to cover your filling completely. 04. Using a sheet of nori seaweed, wrap up your ball of rice. 05. Sprinkle some sesame seeds or cut up shiso leaves to put on the rice for a little extra flavour (optional). Enjoy for a snack or during lunch.",
+      "cookingTime": "45 min"
+    },
+    {
+      "id": "2",
+      "title": "Spring Rolls",
+      "ingredients": [
+        "2-3 prawns",
+        "green beans",
+        "2-3 whole chives/spring onion",
+        "mint/coriander leaves",
+        "pinch of salt",
+        "2-3 rice paper wrappers"
+      ],
+      "method": "01. Fill a small saucepan with some water and add a little salt. Bring to a boil. Add the prawns and boil until they bright pink, about 2-3 mins. Be careful not to overcook them. 02. In a separate saucepan, boil the green beans for 2-4 mins. until blanched and set aside. 03. Prepare the rice paper following the instruction on the package. Normally this involves soaking the rice paper wrappers in cool water for a few seconds until pliable. 04. Lay the rice paper on clean cloth. Arrange the mint/coriander leaves on the bottom of the rice paper and add the prawn halves in the middle. 05. Top with the green beans and one whole chive/spring onion. Sprinkle a little salt on top to taste. 06. Fold the sides in and tightly roll to ensure all ingredients are inside. 07. Make the dipping sauce by mixing all the ingredients together. 08. Serve spring rolls with the dipping sauce as a snack or side.",
+      "cookingTime": "45 min"
+    },
+    {
+      "id": "3",
+      "title": "Tom yum (hot & sour) soup with prawns",
+      "ingredients": [
+        "700ml chicken stock",
+        "1 lemongrass stalk, bruised and cut into large pieces",
+        "5 thick slices galangal",
+        "3 coriander roots or 6 stems, bruised, plus leaves to garnish",
+        "3 lime leaves, torn",
+        "6 large prawns, shelled",
+        "3 tbsp Thai fish sauce",
+        "6 small green chillies, chopped",
+        "4 tbsp lime juice"
+      ],
+      "method": "01. Bring the stock to a boil in a medium-sized saucepan. Add the lemongrass, galangal, coriander roots and lime leaves, then simmer for 2 mins. 02. Add the prawns, fish sauce, chillies and lime juice, then return to the boil. Taste and adjust the seasoning with either more lime juice or fish sauce, then garnish with coriander leaves and serve.",
+      "cookingTime": "25 min"
+    },
+    {
+      "id": "4",
+      "title": "Japanese salmon & avocado rice",
+      "ingredients": [
+        "300g sushi rice",
+        "350g skinless salmon fillet",
+        "2 small, ripe avocados , sliced",
+        "juice 1 lemon",
+        "4 tsp light soy sauce",
+        "4 tsp toasted sesame seeds",
+        "2 spring onions , thinly sliced",
+        "1 red chilli , deseeded and thinly sliced",
+        "small handful coriander leaves"
+      ],
+      "method": "01. Rinse the rice in a sieve until the water runs clear. Drain and put in a large pan with 400ml water. Bring to the boil, turn the heat to low, cover, then cook for 10-12 mins until the rice is almost cooked. Remove from the heat, then leave, covered, for another 10 mins. 02. Thinly slice the salmon and arrange on a platter with the sliced avocado. Drizzle over the lemon juice and soy, making sure everything is evenly covered. Leave in the fridge to marinate for 10 mins. 03. Carefully tip the juices from the salmon platter into the rice, then stir in with a little salt. Divide the rice between 4 bowls. Scatter the sesame seeds, spring onions, chilli and coriander over the salmon and avocado, then serve with the rice.",
+      "cookingTime": "30 min"
+    }
+  ]
+}
