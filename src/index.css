@@ -4,12 +4,14 @@ html, body, #root {
 body {
   font-family: sans-serif;
   margin:0;
-  font-size:1.4em;
+  font-size:1.0em;
   background:#dfdfdf;
   color:#333;
 }
 h1, h2, h3, p {
   margin: 0;
+  font-weight:400;
+  font-size:1em;
 }
 input, textarea {
   color:#333;
