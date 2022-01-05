@@ -13,7 +13,10 @@
   font-size:12px;
   margin:10px 0;
 }
-.create h3, p {
+.create p, .create li {
+  font-size:12px;
+}
+.create p, .create ul {
   margin:10px 0 0;
 }
 input, textarea {
@@ -37,6 +40,15 @@ input, textarea {
   color: white;
   background:#485656;
   border:1px solid #485656;
+}
+
+.ingredients {
+  display:flex;
+  align-items:center;
+}
+
+.ingredients button {
+  margin: 0 0 0 10px;
 }
 
 
