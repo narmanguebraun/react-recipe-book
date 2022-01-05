@@ -5,6 +5,9 @@
   background:#fff;
   padding:40px;
 }
+.create h2 {
+  margin:0 0 40px;
+}
 .create label span {
   display:block;
   font-size:12px;
@@ -16,21 +19,25 @@
 input, textarea {
   font-family:sans-serif;
 }
-.create button {
-  text-decoration:none;
-  margin: 20px 0 0;
-  padding:8px;
-  border-radius:4px;
-  border:1px solid #252525;
+
+.create button{
+  font-family: 'JetBrains Mono', monospace;
   font-size: 10px;
-  line-height: 1.3;
   letter-spacing: 1px;
-  background:#fff;
-  color: #252525;
   text-transform: uppercase;
+  color: #485656;
+  background:#fff;
+  border:1px solid #485656;
+  border-radius:4px;
+  padding:8px;
   cursor:pointer;
+  margin: 20px 0 0;
 }
 .create button:hover {
-  background: #252525;
-  color:#efefef;
+  color: white;
+  background:#485656;
+  border:1px solid #485656;
 }
+
+
+

@@ -33,14 +33,14 @@
 .recipe-list .card a{
   font-size: 10px;
   letter-spacing: 1px;
-  color: #252525;
+  color: #485656;
   text-transform: uppercase;
   border:none;
-  border-bottom:1px solid #252525;
+  border-bottom:1px solid #485656;
   cursor:pointer;
   margin: 10px 0;
 }
 .recipe-list .card a:hover {
-  color:#b4841e;
-  border-bottom:1px solid #b4841e;
+  color:#252525;
+  border-bottom:1px solid #252525;
 }
