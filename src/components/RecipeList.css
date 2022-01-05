@@ -18,6 +18,27 @@
   transform: rotate(3deg);
 }
 .recipe-list .card h3{
- color:#555;
  margin-bottom: 6px;
+ font-size: 18px;
 }
+.recipe-list .card .cook-time{
+  margin: 0;
+  font-size: 10px;
+  line-height: 1.3;
+  letter-spacing: 1.1px;
+  color: #8e8e8e;
+  text-transform: uppercase;
+}
+.recipe-list .card p{
+  margin:20px 0;
+  font-size:14px;
+}
+.recipe-list .card a{
+  margin: 0;
+  font-size: 10px;
+  line-height: 1.3;
+  letter-spacing: 1.1px;
+  color: #8e8e8e;
+  text-transform: uppercase;
+}
+.recipe-list .card a:hover {color:#b4841e;}
