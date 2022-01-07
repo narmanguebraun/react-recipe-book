@@ -1,5 +1,5 @@
 import { useEffect, useState, useRef } from 'react'
-import { useHistory } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom' // useHistory is useNavigate since react-router-dom v6
 import { useFetch } from '../../hooks/useFetch'
 import './Create.css'
 
@@ -10,7 +10,7 @@ export default function Create() {
   const [newIngredient, setNewIngredient] = useState('')
   const [ingredients, setIngredients] = useState([])
   const ingredientInput = useRef(null)
-  const history = useHistory()
+  const navigate = useNavigate()
 
   const { postData, data, error } = useFetch('http://localhost:3000/recipes', 'POST')
 
@@ -34,7 +34,7 @@ export default function Create() {
   // redirect the user when we get the data response
   useEffect(() => {
     if (data) {
-      history.push('/')
+      navigate.push('/') // history is now navigate
     }
   }, [data])
 
